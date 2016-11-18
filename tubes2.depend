@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1386386676 source:g:\project\tubes2\main.cpp
+	"parts.h"
+
+1386386122 source:g:\project\tubes2\parts.cpp
+	"parts.h"
+
+1386385760 g:\project\tubes2\parts.h
+	<iostream>
+	<malloc.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+
+1386428126 source:c:\users\taufik\documents\kuliah\semester 3\tubes2\main.cpp
+	"parts.h"
+
+1386428116 c:\users\taufik\documents\kuliah\semester 3\tubes2\parts.h
+	<iostream>
+	<malloc.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+
+1386426095 source:c:\users\taufik\documents\kuliah\semester 3\tubes2\parts.cpp
+	"parts.h"
+
+1386428126 source:g:\it telkom\kuliah\semester 3\praktikum algoritma dan strukur data\tubes\tubes2\main.cpp
+	"parts.h"
+
+1386428116 g:\it telkom\kuliah\semester 3\praktikum algoritma dan strukur data\tubes\tubes2\parts.h
+	<iostream>
+	<malloc.h>
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<cstring>
+
+1386428366 source:g:\it telkom\kuliah\semester 3\praktikum algoritma dan strukur data\tubes\tubes2\parts.cpp
+	"parts.h"
+
